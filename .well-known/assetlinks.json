@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "fr.vct.app",
+    "sha256_cert_fingerprints": ["AD:57:77:D9:A1:B7:73:69:3F:0F:79:06:A3:35:51:5D:CB:D7:B7:4B:C2:4E:86:4A:9F:73:00:D1:DB:FB:B4:44"]
+  }
+}]
